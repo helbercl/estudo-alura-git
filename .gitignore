@@ -1,0 +1,17 @@
+#ignorar arquivos com final com til
+*~
+
+# ignorar todos arquivos settings 
+.settings
+
+.project
+target
+.classpath
+.factorypath
+
+#ignorar qualquer arquivo do tipo log
+*.log
+#ignorar o arquivo de configuração
+ide-config
+#ignorar diretorio IDE
+ide/
